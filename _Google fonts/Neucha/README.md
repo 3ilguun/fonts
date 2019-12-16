@@ -1,3 +1,5 @@
+![Sample screenshot](preview.jpg)
+
 You will throw tomatoes at me when I say that the font Neucha was invented for the sake of one and only one phrase: “I love you”. It was 2005 and I was in love. The first version of the font was done in 8 hours. I recently redid this fastfont from scratch, some glyphs have changed greatly but most of them I did not touch – just polished. Neucha very strong in terms of energy and I love it. Neucha translated from the Russian language means “not knowing how to create fonts right”.
 
 Designed by [Jovanny Lemonad](https://fonts.google.com/specimen/Neucha)

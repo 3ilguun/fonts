@@ -1,3 +1,5 @@
+![Sample screenshot](preview.jpg)
+
 Playfair is a transitional design. From the time of enlightenment in the late 18th century, the broad nib quills were replaced by pointed steel pens. This influenced typographical letterforms to become increasingly detached from the written ones. Developments in printing technology, ink, and paper making, made it possible to print letterforms of high contrast and delicate hairlines.
 
 This design lends itself to this period, and while it is not a revival of any particular design, it takes influence from the designs of printer and typeface designer John Baskerville, the punchcutter William Martin’s typeface for the ‘Boydell Shakspeare’ (sic) edition, and from the ‘Scotch Roman’ designs that followed thereafter.

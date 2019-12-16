@@ -1,3 +1,5 @@
+![Sample screenshot](preview.jpg)
+
 BEER MONEY is a hand drawn (scribble) font with language extentions and some 
 funny features 
 
